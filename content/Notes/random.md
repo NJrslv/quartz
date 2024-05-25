@@ -1,0 +1,6 @@
+- [How to Read a Paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
+- [Leanpub: bookstore](https://leanpub.com/bookstore?type=book)
+- [The Hacker News Top books so far](https://hackernewsbooks.com/top-books-on-hacker-news)
+- [Why lowercase letters save data](https://endtimes.dev/why-lowercase-letters-save-data/)
+- [What makes airplanes fly](https://ciechanow.ski/airfoil/)
+- [Latency Numbers](https://samwho.dev/numbers/?fo)

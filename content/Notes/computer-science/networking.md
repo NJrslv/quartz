@@ -1,0 +1,5 @@
+- [Richard Steenbergen: A Practical Guide to (Correctly) Troubleshooting with Traceroute](https://archive.nanog.org/meetings/nanog47/presentations/Sunday/RAS_Traceroute_N47_Sun.pdf)
+- [Self-Healing Datacenter: Flow label](https://habr.com/en/companies/yandex/articles/524184/)
+- [How Attackers Can Decloak Routing-Based VPNs For a Total VPN Leak](https://www.leviathansecurity.com/blog/tunnelvision)
+- [Oreilly: gRPC Under the Hood](https://www.oreilly.com/library/view/grpc-up-and/9781492058328/ch04.html#simple_rpc_message_flow)
+- [It’s always TCP_NODELAY](https://brooker.co.za/blog/2024/05/09/nagle.html)
