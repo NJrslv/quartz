@@ -1,0 +1,8 @@
+- [Lamport: A Science of Concurrent Programs](https://lamport.azurewebsites.net/tla/science.pdf)
+- [Lipovsky: awesome-concurrency](https://gitlab.com/Lipovsky/awesome-concurrency)
+- [Erik Rigtorp: correctly implementing a spinlock in C++](https://rigtorp.se/spinlock/)
+- [ELI: basic of futexes](https://eli.thegreenplace.net/2018/basics-of-futexes/)
+- [Boost: Intrusive and non-intrusive containers](https://www.boost.org/doc/libs/1_55_0/doc/html/intrusive/intrusive_vs_nontrusive.html)
+- [LWN: A futex overview](https://lwn.net/Articles/360699/)
+- [Lewissbaker: Stackless coroutine theory](https://lewissbaker.github.io/2017/09/25/coroutine-theory)
+- [Acquire-release](https://davekilian.com/acquire-release.html)

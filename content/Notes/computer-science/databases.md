@@ -1,3 +1,0 @@
-  - [UPDATE postgres](https://patrick.engineering/posts/postgres-internals/)
-  - [NJrlsv's Database Systems CMU Summary](https://github.com/NJrslv/bustub/tree/master/njrslv/CMU-Summary)
-  - [Txn scheduler](http://csci.viu.ca/~liuh/370/Lectures/Lec17-Transactions-2.pdf)

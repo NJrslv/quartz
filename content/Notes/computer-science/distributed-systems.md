@@ -1,6 +1,0 @@
-  - [Learning about distributed systems: where to start](http://muratbuffalo.blogspot.com/2020/06/learning-about-distributed-systems.html)
-  - [Lipovsky: awesome-distsystems](https://gitlab.com/Lipovsky/awesome-distsys)
-  - [Reddit Learning Distributed systems with golang](https://www.reddit.com/r/golang/comments/bahm15/learning_distributed_systems_with_golang/)
-  - [Book Designing-Data-Intensive-Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook/dp/B06XPJML5D/?redirectFromSmile=1)
-  - [MIT Distributed Systems spring 2023](https://pdos.csail.mit.edu/6.824/schedule.html)
-  - [Distributed-systems-reading-list](https://ferd.ca/a-distributed-systems-reading-list.html)

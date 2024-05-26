@@ -1,6 +1,8 @@
 ---
-title: Welcome to Quartz
+title: Table of contents
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+## [Computer Science](computer-science.md)
+## [Startups](startups.md)
+## [Articles](articles.md)
+## [Blogs](blogs.md)
+## [Random](./random.md)
