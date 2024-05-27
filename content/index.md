@@ -6,3 +6,4 @@ title: Table of contents
 ## [Articles](articles.md)
 ## [Blogs](blogs.md)
 ## [Random](./random.md)
+## [Resume](./resume.md)
