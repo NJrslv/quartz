@@ -4,3 +4,4 @@
 - [Why lowercase letters save data](https://endtimes.dev/why-lowercase-letters-save-data/)
 - [What makes airplanes fly](https://ciechanow.ski/airfoil/)
 - [Latency Numbers](https://samwho.dev/numbers/?fo)
+- [The Periodic Table of the Elements, in Pictures and Words](https://elements.wlonk.com)
