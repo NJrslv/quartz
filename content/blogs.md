@@ -1,1 +1,1 @@
-- [Oinam](https://notes.oinam.com)
+- [Oinam](https://brajeshwar.com/archives/)
