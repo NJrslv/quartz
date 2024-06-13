@@ -6,3 +6,4 @@
 - [LWN: A futex overview](https://lwn.net/Articles/360699/)
 - [Lewissbaker: Stackless coroutine theory](https://lewissbaker.github.io/2017/09/25/coroutine-theory)
 - [Acquire-release](https://davekilian.com/acquire-release.html)
+- [Basic futex operation and ordering guarantees](https://github.com/torvalds/linux/blob/master/kernel/futex/waitwake.c)
