@@ -7,3 +7,4 @@
 - [Lewissbaker: Stackless coroutine theory](https://lewissbaker.github.io/2017/09/25/coroutine-theory)
 - [Acquire-release](https://davekilian.com/acquire-release.html)
 - [Basic futex operation and ordering guarantees](https://github.com/torvalds/linux/blob/master/kernel/futex/waitwake.c)
+- [Futexes Are Tricky](https://cis.temple.edu/~giorgio/cis307/readings/futex.pdf)
