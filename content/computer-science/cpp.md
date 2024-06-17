@@ -1,3 +1,4 @@
+- [Address Sanitizer Internals](https://blog.gistre.epita.fr/posts/benjamin.peter-2022-10-28-address_sanitizer_internals/)
 - [Erik Rigtorp: modern cpp collection](https://github.com/rigtorp/awesome-modern-cpp)
 - [Beej's Quick Guide to GDB](https://beej.us/guide/bggdb/)
 - [Custom cpp iterator](https://www.internalpointers.com/post/writing-custom-iterators-modern-cpp)
