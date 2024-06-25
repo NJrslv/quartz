@@ -5,6 +5,7 @@
 - [Boost: Intrusive and non-intrusive containers](https://www.boost.org/doc/libs/1_55_0/doc/html/intrusive/intrusive_vs_nontrusive.html)
 - [LWN: A futex overview](https://lwn.net/Articles/360699/)
 - [Lewissbaker: Stackless coroutine theory](https://lewissbaker.github.io/2017/09/25/coroutine-theory)
-- [Acquire-release](https://davekilian.com/acquire-release.html)
+- [Making Sense of Acquire-Release Semantics](https://davekilian.com/acquire-release.html)
 - [Basic futex operation and ordering guarantees](https://github.com/torvalds/linux/blob/master/kernel/futex/waitwake.c)
 - [Futexes Are Tricky](https://cis.temple.edu/~giorgio/cis307/readings/futex.pdf)
+- [Acquire and Release Semantics](https://preshing.com/20120913/acquire-and-release-semantics/)
