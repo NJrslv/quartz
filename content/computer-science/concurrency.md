@@ -11,3 +11,4 @@
 - [Acquire and Release Semantics](https://preshing.com/20120913/acquire-and-release-semantics/)
 - [traps of condition variables](https://www.modernescpp.com/index.php/c-core-guidelines-be-aware-of-the-traps-of-condition-variables/)
 - [jepsen Consistency Models](https://jepsen.io/consistency)
+- [Memory Barriers Are Like Source Control Operations](https://preshing.com/20120710/memory-barriers-are-like-source-control-operations/)
