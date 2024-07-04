@@ -6,3 +6,4 @@
 - [Latency Numbers](https://samwho.dev/numbers/?fo)
 - [The Periodic Table of the Elements, in Pictures and Words](https://elements.wlonk.com)
 - [Daily Hacker News](http://www.daemonology.net/hn-daily/)
+- [a search engine for Hacker News](https://hackernews.demo.vectara.com/)
