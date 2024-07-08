@@ -1,4 +1,5 @@
 - [Why you shouldn't join Y Combinator](https://newsletter.smallbets.co/p/why-you-shouldnt-join-y-combinator)
 - [Why do startups typically fail?](https://longform.asmartbear.com/avoid-blundering/)
 - [Mediocre Success](https://pivotal.substack.com/p/the-worst-outcome-is-a-mediocre-success)
-- [Seeking Advice in Startups](https://nuances.substack.com/p/seeking-advice-in-startups) 
+- [Seeking Advice in Startups](https://nuances.substack.com/p/seeking-advice-in-startups)
+- [Startup Ideas ~ solving problems by paulgraham](https://paulgraham.com/startupideas.html)
