@@ -10,3 +10,4 @@
 - [Cpp-best-practices](https://github.com/cpp-best-practices/cppbestpractices)
 - [Cpp-draft](http://eel.is/c++draft/)
 - [Godbolt](https://godbolt.org)
+- [C++ Design Patterns for Low-latency Applications Including hft](https://arxiv.org/abs/2309.04259)
