@@ -4,3 +4,4 @@
 - [Book Designing-Data-Intensive-Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook/dp/B06XPJML5D/?redirectFromSmile=1)
 - [MIT Distributed Systems spring 2023](https://pdos.csail.mit.edu/6.824/schedule.html)
 - [Distributed-systems-reading-list](https://ferd.ca/a-distributed-systems-reading-list.html)
+- [How Binance built a 100PB log service with Quickwit](https://quickwit.io/blog/quickwit-binance-story)

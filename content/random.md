@@ -7,3 +7,4 @@
 - [The Periodic Table of the Elements, in Pictures and Words](https://elements.wlonk.com)
 - [Daily Hacker News](http://www.daemonology.net/hn-daily/)
 - [a search engine for Hacker News](https://hackernews.demo.vectara.com/)
+- [Beating the L1 cache with value speculation](https://mazzo.li/posts/value-speculation.html)
