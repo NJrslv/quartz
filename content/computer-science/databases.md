@@ -2,3 +2,4 @@
 - [NJrlsv's Database Systems CMU Summary](https://github.com/NJrslv/bustub/tree/master/njrslv/CMU-Summary)
 - [Txn scheduler](http://csci.viu.ca/~liuh/370/Lectures/Lec17-Transactions-2.pdf)
 - [Textbook: Database System Concepts (7th Edition)](https://db-book.com)
+- [Database Design for Google Calendar: a tutorial](https://kb.databasedesignbook.com/posts/google-calendar/)

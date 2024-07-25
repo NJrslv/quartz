@@ -4,3 +4,5 @@
 - [Unaligned memory Accesses](https://www.kernel.org/doc/html/v6.1/core-api/unaligned-memory-access.html#why-unaligned-access-is-bad)
 - [Anatomy of a Program in Memory](https://manybutfinite.com/post/anatomy-of-a-program-in-memory/)
 - [What is PID 0?](https://blog.dave.tf/post/linux-pid0/)
+- [Hiding Linux Processes with Bind Mounts](https://righteousit.com/2024/07/24/hiding-linux-processes-with-bind-mounts/)
+- [The Linux audio stack demystified](https://blog.rtrace.io/posts/the-linux-audio-stack-demystified/)

@@ -2,3 +2,4 @@
 - [Algorithmica](https://ru.algorithmica.org) ru version
 - [Useful blogs ever published on Codeforces](https://codeforces.com/blog/entry/91363)
 - [Algorithms for Competitive Programming](https://cp-algorithms.com/index.html)
+- [Linear Time Median Finding](https://rcoh.me/posts/linear-time-median-finding/)
