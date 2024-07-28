@@ -8,3 +8,4 @@ title: Table of contents
 ## [Random](./random.md)
 ## [Videos](./videos.md)
 ## [Resume](./resume.md)
+## [Social](./social.md)

@@ -1,0 +1,2 @@
+- [tool to expand your network](https://www.moreoverlap.com/)
+- [find people studying the same online course/book](https://moocable.com/)

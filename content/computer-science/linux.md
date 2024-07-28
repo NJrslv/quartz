@@ -6,3 +6,4 @@
 - [What is PID 0?](https://blog.dave.tf/post/linux-pid0/)
 - [Hiding Linux Processes with Bind Mounts](https://righteousit.com/2024/07/24/hiding-linux-processes-with-bind-mounts/)
 - [The Linux audio stack demystified](https://blog.rtrace.io/posts/the-linux-audio-stack-demystified/)
+- [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
