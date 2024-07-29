@@ -10,3 +10,4 @@
 - [Beating the L1 cache with value speculation](https://mazzo.li/posts/value-speculation.html)
 - [Calculating Position from Raw GPS Data](https://www.telesens.co/2017/07/17/calculating-position-from-raw-gps-data/)
 - [Reverse Engineering For Everyone!](https://0xinfection.github.io/reversing/)
+- [An IDE built on top of a canvas](https://haystackeditor.com/)
