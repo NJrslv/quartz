@@ -3,3 +3,4 @@
 - [Txn scheduler](http://csci.viu.ca/~liuh/370/Lectures/Lec17-Transactions-2.pdf)
 - [Textbook: Database System Concepts (7th Edition)](https://db-book.com)
 - [Database Design for Google Calendar: a tutorial](https://kb.databasedesignbook.com/posts/google-calendar/)
+- [How Postgres stores data on disk](https://drew.silcock.dev/blog/how-postgres-stores-data-on-disk/)

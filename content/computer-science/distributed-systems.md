@@ -5,3 +5,4 @@
 - [MIT Distributed Systems spring 2023](https://pdos.csail.mit.edu/6.824/schedule.html)
 - [Distributed-systems-reading-list](https://ferd.ca/a-distributed-systems-reading-list.html)
 - [How Binance built a 100PB log service with Quickwit](https://quickwit.io/blog/quickwit-binance-story)
+- [Mastering Caching in Distributed Applications](https://levelup.gitconnected.com/mastering-caching-in-distributed-applications-e7449f4db399)
