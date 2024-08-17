@@ -15,7 +15,11 @@
 
 # Experience
 
-## Yandex, C++ Software Engineer, Intern
+## Amazon Web Services (AWS), Software Developer Intern, Full-time
+
+- Aug. 2024 to Feb. 2025
+
+## Yandex, Software Engineer Intern, Full-time
 
 - Dec. 2023 to Mar. 2024 
 - Minsk, Belarus 
