@@ -14,3 +14,4 @@
 - [How to Build Anything Extremely Quickly](https://learnhowtolearn.org/how-to-build-extremely-quickly/)
 - [Advice to the young](https://muratbuffalo.blogspot.com/2024/07/advice-to-young.html)
 - [An app for managing your budget visually](https://www.budgetflow.cc/)
+- [Hot Page – a graphical site builder](https://hot.page/)
