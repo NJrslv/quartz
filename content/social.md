@@ -1,2 +1,3 @@
 - [tool to expand your network](https://www.moreoverlap.com/)
 - [find people studying the same online course/book](https://moocable.com/)
+- [Aristotle — How to live a good life](https://ralphammer.com/aristotle-how-to-live-a-good-life/)
