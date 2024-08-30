@@ -4,3 +4,4 @@
 - [Oreilly: gRPC Under the Hood](https://www.oreilly.com/library/view/grpc-up-and/9781492058328/ch04.html#simple_rpc_message_flow)
 - [It’s always TCP_NODELAY](https://brooker.co.za/blog/2024/05/09/nagle.html)
 - [linux network performance ultimate guide](https://ntk148v.github.io/posts/linux-network-performance-ultimate-guide/#204-sysctl)
+- [tesla Replacing TCP for Low Latency Applications](https://chipsandcheese.com/2024/08/27/teslas-ttpoe-at-hot-chips-2024-replacing-tcp-for-low-latency-applications/)
