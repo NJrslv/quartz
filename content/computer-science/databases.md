@@ -4,3 +4,4 @@
 - [Textbook: Database System Concepts (7th Edition)](https://db-book.com)
 - [Database Design for Google Calendar: a tutorial](https://kb.databasedesignbook.com/posts/google-calendar/)
 - [How Postgres stores data on disk](https://drew.silcock.dev/blog/how-postgres-stores-data-on-disk/)
+- [Things I Wished More Developers Knew About Databases](https://rakyll.medium.com/things-i-wished-more-developers-knew-about-databases-2d0178464f78)
