@@ -1,3 +1,4 @@
+computer architecture && linux
 - [Minimum tutorial of ext4](https://metebalci.com/blog/a-minimum-complete-tutorial-of-linux-ext4-file-system/)
 - [Epoll: The API that powers the modern internet](https://darkcoding.net/software/epoll-the-api-that-powers-the-modern-internet/)
 - [Garbage Collection for Systems Programmers](https://bitbashing.io/gc-for-systems-programmers.html)
@@ -7,3 +8,7 @@
 - [Hiding Linux Processes with Bind Mounts](https://righteousit.com/2024/07/24/hiding-linux-processes-with-bind-mounts/)
 - [The Linux audio stack demystified](https://blog.rtrace.io/posts/the-linux-audio-stack-demystified/)
 - [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
+- [Analysis of 'What Every Programmer Should Know About Memory'](https://samueleresca.net/analysis-of-what-every-programmer-should-know-about-memory/)
+- [Ulrich Drepper Virtual Memory](https://lwn.net/Articles/253361/)
+- [Ulrich Drepper CPU caches](https://lwn.net/Articles/252125/)
+- [Ulrich Drepper What programmers can do](https://lwn.net/Articles/255364/)
