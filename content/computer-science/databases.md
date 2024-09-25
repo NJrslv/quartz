@@ -5,3 +5,4 @@
 - [Database Design for Google Calendar: a tutorial](https://kb.databasedesignbook.com/posts/google-calendar/)
 - [How Postgres stores data on disk](https://drew.silcock.dev/blog/how-postgres-stores-data-on-disk/)
 - [Things I Wished More Developers Knew About Databases](https://rakyll.medium.com/things-i-wished-more-developers-knew-about-databases-2d0178464f78)
+- [example of Late Materialization](https://aws.amazon.com/about-aws/whats-new/2017/12/amazon-redshift-introduces-late-materialization-for-faster-query-processing/)
