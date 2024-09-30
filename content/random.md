@@ -19,3 +19,4 @@
 - [A discovery-focused search engine for Hacker News](https://hn.trieve.ai/?score_threshold=5&page_size=30&prefetch_amount=30&rerank_type=none&highlight_delimiters=+,-,_,.,,&highlight_threshold=0.85&highlight_max_length=50&highlight_max_num=50&highlight_window=0&recency_bias=0&highlight_results=true&use_quote_negated_terms=true&q=&storyType=story&matchAnyAuthorNames=&matchNoneAuthorNames=&popularityFilters=%7B%7D&sortby=relevance&dateRange=all&searchType=fulltext&page=1&getAISummary=false)
 - [Hacker News Book Map](https://hnbooks.pieterma.es/)
 - [Creating a Git commit: The Hard Way](https://avestura.dev/blog/creating-a-git-commit-the-hard-way)
+- [Map with public fruit trees](https://mundraub.org/map#z=7&lat=50.91&lng=11.56)
