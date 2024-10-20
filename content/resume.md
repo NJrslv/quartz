@@ -18,6 +18,7 @@
 ## Amazon Web Services (AWS), Software Developer Intern, Full-time
 
 - Aug. 2024 to Feb. 2025
+- I am working on Redshift, planner performance.
 
 ## Yandex, Software Engineer Intern, Full-time
 
