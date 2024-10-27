@@ -21,3 +21,5 @@
 - [Creating a Git commit: The Hard Way](https://avestura.dev/blog/creating-a-git-commit-the-hard-way)
 - [Map with public fruit trees](https://mundraub.org/map#z=7&lat=50.91&lng=11.56)
 - [How To Survive Your Project's First 100,000 Lines](https://verdagon.dev/blog/first-100k-lines)
+- [Async Rust in Three Parts](https://jacko.io/async_intro.html)
+- [How Discord Reduced websocket traffic by 40%](https://discord.com/blog/how-discord-reduced-websocket-traffic-by-40-percent)
