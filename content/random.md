@@ -23,3 +23,4 @@
 - [How To Survive Your Project's First 100,000 Lines](https://verdagon.dev/blog/first-100k-lines)
 - [Async Rust in Three Parts](https://jacko.io/async_intro.html)
 - [How Discord Reduced websocket traffic by 40%](https://discord.com/blog/how-discord-reduced-websocket-traffic-by-40-percent)
+- [Make it Yourself](https://makeityourself.org/)
