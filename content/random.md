@@ -24,3 +24,8 @@
 - [Async Rust in Three Parts](https://jacko.io/async_intro.html)
 - [How Discord Reduced websocket traffic by 40%](https://discord.com/blog/how-discord-reduced-websocket-traffic-by-40-percent)
 - [Make it Yourself](https://makeityourself.org/)
+- [Terminal Emulator, ghostty](https://ghostty.org/)
+- [Semantically search ArXiv papers](https://papermatch.mitanshu.tech/)
+- [Moon](https://ciechanow.ski/moon/)
+- [TimeMap - World History Atlas](https://www.oldmapsonline.org/en/history/regions#position=6/51.541/-0.06&year=1850)
+

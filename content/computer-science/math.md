@@ -2,3 +2,5 @@
 - [Proofs by topic](https://proofwiki.org/wiki/Category:Proofs_by_Topic)
 - [Interactive linear algebra](http://immersivemath.com/ila/index.html)
 - [Erdosproblems](https://www.erdosproblems.com/#about)
+- [How to Study Mathematics](https://www.math.uh.edu/~dblecher/pf2.html)
+- [General proof for the lower bound of comparison based sorting algorithms](https://abdullaev.dev/general-proof-for-the-lower-bound-of-comparison-based-sorting-algorithms-using-decision-trees/)

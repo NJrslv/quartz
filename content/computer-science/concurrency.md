@@ -13,3 +13,4 @@
 - [jepsen Consistency Models](https://jepsen.io/consistency)
 - [Memory Barriers Are Like Source Control Operations](https://preshing.com/20120710/memory-barriers-are-like-source-control-operations/)
 - [The Deadlock Empire](https://deadlockempire.github.io/)
+- [What every systems programmer should know about concurrency](https://assets.bitbashing.io/papers/concurrency-primer.pdf)
