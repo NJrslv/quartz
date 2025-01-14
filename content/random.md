@@ -28,4 +28,5 @@
 - [Semantically search ArXiv papers](https://papermatch.mitanshu.tech/)
 - [Moon](https://ciechanow.ski/moon/)
 - [TimeMap - World History Atlas](https://www.oldmapsonline.org/en/history/regions#position=6/51.541/-0.06&year=1850)
+- [Hardware Hacking Wiki](https://www.hardbreak.wiki/)
 

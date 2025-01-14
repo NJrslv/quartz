@@ -8,3 +8,4 @@
 - [Example of Late Materialization](https://aws.amazon.com/about-aws/whats-new/2017/12/amazon-redshift-introduces-late-materialization-for-faster-query-processing/)
 - [Optimizing Postgres table layout for maximum efficiency](https://r.ena.to/blog/optimizing-postgres-table-layout-for-maximum-efficiency/)
 - [Andy Pavlo: The Part of PostgreSQL We Hate the Most](https://www.cs.cmu.edu/~pavlo/blog/2023/04/the-part-of-postgresql-we-hate-the-most.html)
+- [DB-Engines Ranking](https://db-engines.com/en/ranking)
