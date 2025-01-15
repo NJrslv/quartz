@@ -2,3 +2,4 @@
 - [find people studying the same online course/book](https://moocable.com/)
 - [Aristotle — How to live a good life](https://ralphammer.com/aristotle-how-to-live-a-good-life/)
 - [Where can you go by train in 8h?](https://www.chronotrains.com/en)
+- [Stretch My Time Off](https://stretchmytimeoff.com/)
