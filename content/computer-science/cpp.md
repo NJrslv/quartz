@@ -13,6 +13,6 @@
 - [C++ Design Patterns for Low-latency Applications Including hft](https://arxiv.org/abs/2309.04259)
 - [Few lesser known tricks, quirks and features of C](https://jorenar.com/blog/less-known-c)
 - [Common Misconceptions about Compilers](https://sbaziotis.com/compilers/common-misconceptions-about-compilers.html)
-- [bithacks](https://graphics.stanford.edu/~seander/bithacks.html)
+- [bithacks](https://github.com/gibsjose/BitHacks?tab=readme-ov-file)
 
 
