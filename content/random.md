@@ -29,4 +29,6 @@
 - [Moon](https://ciechanow.ski/moon/)
 - [TimeMap - World History Atlas](https://www.oldmapsonline.org/en/history/regions#position=6/51.541/-0.06&year=1850)
 - [Hardware Hacking Wiki](https://www.hardbreak.wiki/)
+- [Wikenigma - an Encyclopedia of Unknowns](https://wikenigma.org.uk/start)
+- [Chat is a bad UI pattern for development tools](https://danieldelaney.net/chat/)
 

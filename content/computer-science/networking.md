@@ -6,3 +6,4 @@
 - [linux network performance ultimate guide](https://ntk148v.github.io/posts/linux-network-performance-ultimate-guide/#204-sysctl)
 - [tesla Replacing TCP for Low Latency Applications](https://chipsandcheese.com/2024/08/27/teslas-ttpoe-at-hot-chips-2024-replacing-tcp-for-low-latency-applications/)
 - [Visual guide to SSH tunneling and port forwarding](https://ittavern.com/visual-guide-to-ssh-tunneling-and-port-forwarding/)
+- [Everyone knows your location](https://timsh.org/tracking-myself-down-through-in-app-ads/)
